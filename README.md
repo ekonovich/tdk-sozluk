@@ -1,7 +1,7 @@
 # tdk-sozluk
 <h1>TDK Sözlük sitesindeki kelimelerin listesi</h1>
 
-<p>Elimde boş duran <a href="https://nedirara.com">nedir ara</a> alanadını değerlendirmek için geliştirdiğim
+<p>Elimde boş duran <a href="https://tamsozluk.com">tdk uyumlu tam sözlük</a> alanadını değerlendirmek için geliştirdiğim
 sözlük projesinde kullandığım Türkçe kelimeler json listesi.</p>
 
 <p>TDK yeni sitesine geçince zaten açık api yapmış. İsteyen kişiler bu kelimeler ile sorgulayıp apisinden anlamları çekebilir.</p>
